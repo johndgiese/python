@@ -5,7 +5,6 @@ import re
 import itertools
 import unittest
 
-from libtiff import TIFF
 from numpy import array
 from pylab import * # TODO: eventually only use necessary imports
 from scipy import interpolate
